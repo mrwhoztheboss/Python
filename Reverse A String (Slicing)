@@ -1,0 +1,5 @@
+#Slicing Fatsest For Reversing
+string = input("Enter the string: ")
+string = string[::-1]     
+print("Reversed string : "+ string)
+input("Press Enter to Exit.")
