@@ -1,0 +1,6 @@
+number = int(input("Enter A Number : "))
+if number%2==0:
+    print("It's A Even Number")
+else:
+    print("It's A Odd Number")
+input("Press Enter ...")
